@@ -12,7 +12,7 @@ URxvt.internalBorder: 4
 URxvt.cursorBlink: true
 URxvt.cursorUnderline: true
 URxvt.pointerBlank: true
-URxvt.perl-lib: @@PLUGINS_DIR@@
+URxvt.perl-lib: @PLUGINS_DIR@
 URxvt.perl-ext-common: url-select,clipboard,font-size,colors
 URxvt.keysym.C-c: builtin:
 URxvt.keysym.M-c: builtin:
