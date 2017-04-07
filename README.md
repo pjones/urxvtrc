@@ -4,7 +4,7 @@ Peter's urxvt configuration file and scripts (plugins).
 
 ## Installation
 
-  1. Replace `@PLUGINS_DIR@` in the `config/resources` file with the
+  1. Replace `@plugins_dir@` in the `config/resources` file with the
      path to the directory where you are going to install the Perl
      scripts from the `plugins` directory.
 
