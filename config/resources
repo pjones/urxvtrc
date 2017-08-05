@@ -25,6 +25,8 @@ URxvt.keysym.C-M-plus: perl:font-size:increase
 URxvt.keysym.C-M-minus: perl:font-size:decrease
 URxvt.keysym.C-M-0: perl:font-size:reset
 URxvt.keysym.C-M-c: perl:colors:toggle
+URxvt.iso14755: true
+URxvt.iso14755_52: false
 URxvt.background: #222222
 URxvt.foreground: #839496
 URxvt.highlightColor: #003340
